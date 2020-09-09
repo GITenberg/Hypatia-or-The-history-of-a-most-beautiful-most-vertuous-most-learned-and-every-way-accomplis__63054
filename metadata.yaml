@@ -1,0 +1,32 @@
+_repo: Hypatia-or-The-history-of-a-most-beautiful-most-vertuous-most-learned-and-every-way-accomplis__63054
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Toland, John
+    alias: Patricola
+    birthdate: 1670
+    deathdate: 1722
+    gutenberg_agent_id: '52247'
+    url: http://www.gutenberg.org/2009/agents/52247
+    wikipedia: https://en.wikipedia.org/wiki/John_Toland
+description: ''
+gutenberg_issued: '2020-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cyril, Saint, Patriarch of Alexandria, approximately 370-444'
+- !lcc 'BR'
+- !lcsh 'Alexandria (Egypt) -- Church history'
+- !lcsh 'Hypatia, -415'
+- !lcsh 'Christianity -- Egypt -- Alexandria'
+- GITenberg
+title: "Hypatia\r\nor, The history of a most beautiful, most vertuous, most learned,\
+  \ and every way accomplish'd lady; who was torn to pieces by the clergy of Alexandria,\
+  \ to gratify the pride, emulation, and cruelty of their archbishop, commonly but\
+  \ undeservedly styled St. Cyril"
+url: http://www.gutenberg.org/ebooks/63054
